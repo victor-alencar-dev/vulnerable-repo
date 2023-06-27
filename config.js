@@ -11,7 +11,7 @@ var config_devel = {
     "db": {
         "server": "postgres://postgres:postgres@10.211.55.70",
         "database": "vulnerablenode"
-    }
+    } 
 }
 
 var config_docker = {
